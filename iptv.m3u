@@ -1,0 +1,39 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Azerbaijan", Aztv
+https://str.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", Xezertv
+https://str.yodacdn.net/xazar/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", ARB24
+https://str.yodacdn.net/arb24/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", ATV
+https://str.yodacdn.net/atv/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", REALTV
+https://str.yodacdn.net/real/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", ARB
+https://str.yodacdn.net/arb/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", Space
+https://str.yodacdn.net/space/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", Ictimaitv
+https://str.yodacdn.net/ictimai/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", MTV
+https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", Medeniyyet TV
+https://str.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", IDMAN TV
+https://str.yodacdn.net/idman/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", STV
+https://str.yodacdn.net/start/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", Naxcivan TV
+https://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", APA TV
+https://str.yodacdn.net/apatv/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", Baku TV
+https://str.yodacdn.net/bakutv/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", Gunaz TV
+https://str.yodacdn.net/gunaztv/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+#EXTINF:-1 group-title="Azerbaijan", Qafkaz TV
+https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=9668e9941eb3cc104d9fa2af644df172e2a27ca8-234135f4c2cf9ff2d98d10a7674019c9-1714591899-1714581099
+
+
+
